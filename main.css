@@ -7,12 +7,23 @@
   }
   
   /* Task 1 */
-  
+  h3 {
+    color: rgb(0, 0, 255);
+  }
   /* Task 2 */
-  
+  .red{
+    color: rgb(255, 0, 0);
+  }
   /* Task 3 */
-  
+  img + img{
+    border: 5px solid rgb(0, 128, 0);
+  }
   /* Task 4 */
-  
+  a[href*=".com"]{
+    background-color: rgb(255, 255, 0);
+  }
   /* Task 5 */
+  #task-5{
+    color: rgb(95, 158, 160);
+  }
   
